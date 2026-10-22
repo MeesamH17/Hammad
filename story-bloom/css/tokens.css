@@ -1,0 +1,8 @@
+/* Design tokens: shared by every page */
+:root {
+  --ivory: #faf6ee; --paper: #f2ede2; --ink: #1d1b1a; --muted: #5e5851;
+  --navy: #0f1f3d; --navy-deep: #0a1630; --gold: #a8863f; --gold-soft: #d3b676; --line: #ddd5c6;
+  --serif: 'Newsreader', Georgia, serif; --sans: 'Figtree', system-ui, sans-serif;
+  --s1: .5rem; --s2: 1rem; --s3: 1.5rem; --s4: 2.5rem; --s5: 4rem; --s6: clamp(4rem, 9vw, 7.5rem);
+  --max: 1200px; --ease: cubic-bezier(.2, .7, .2, 1);
+}
