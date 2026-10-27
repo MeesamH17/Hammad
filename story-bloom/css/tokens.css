@@ -1,0 +1,9 @@
+/* Design tokens: shared by every page. Brand palette sampled from the official logo. */
+:root {
+  --ivory: #FAF7F0; --paper: #FFFFFF; --ink: #292929; --muted: #68645D;
+  --navy: #14264A; --navy-deep: #0D1933; --gold: #C4A45A; --gold-soft: #D9C48A; --gold-text: #8A6D2B; --line: #E6DECE;
+  --wine: #14264A; /* legacy alias */
+  --serif: 'Cormorant Garamond', Georgia, serif; --sans: 'Inter', system-ui, sans-serif;
+  --s1: .5rem; --s2: 1rem; --s3: 1.5rem; --s4: 2.5rem; --s5: 4rem; --s6: clamp(4rem, 9vw, 7.5rem);
+  --max: 1200px; --ease: cubic-bezier(.2, .7, .2, 1);
+}

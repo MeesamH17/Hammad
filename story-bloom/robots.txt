@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meesamh17.github.io/Hammad/sitemap.xml
